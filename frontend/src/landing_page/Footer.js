@@ -8,7 +8,7 @@ function Footer() {
         <div className="col">
           <img src="media/logo0.png" style={{ width: "30%" }} />
           <p>
-            &copy; 2024-2025 , Stock Pulse Brokering Ltd. All rights reserved.
+            &copy; 2020-2025 , Stock Pulse Brokering Ltd. All rights reserved.
           </p>
         </div>
         <div className="col">

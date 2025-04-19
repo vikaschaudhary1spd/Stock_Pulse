@@ -5,11 +5,11 @@ function Awards() {
     <div className="container mt-5">
       <div className="row">
         <div className="col-6">
-          <img src="media/largestBroker.svg" />
+          <img src="media/bestbroker.png" />
         </div>
 
         <div className="col-6 p-5 mt-3">
-          <h1>Largest stock broker in India</h1>
+          <h1>Best stock broker in India</h1>
           <p className="mb-5">
             50K Stock Pulse contribute to over 0.10% of all retail order
             volumes in India daily by trading and investing in:
